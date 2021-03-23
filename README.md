@@ -1,2 +1,4 @@
 # Testing-Tutorial
-tset repo
+tset repo for git command demonstration
+
+
